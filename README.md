@@ -19,3 +19,12 @@ The goal of this project was to identify populations in Ramsey County, Minnesota
 * Mapped:
 *   Graduated Symbols: People living >1 mile from supermarkets.
 *   Choropleth Map: Income levels by census tract.
+
+**Findings:**
+* No clear correlation was found between supermarket inaccessibility and income levels, indicating food insecurity requires broader, more complex analysis.
+
+**Things i learned:**
+* Geoprocessing Skills: Gained experience filtering, joining, and preparing spatial data for analysis.
+* Spatial Visualization: Developed thematic maps to clearly present geographic patterns.
+* Map Visual Hierarchy: Improved skills in organizing map elements to create a clear visual narrative.
+* Food Insecurity Complexity: Understood that food insecurity extends beyond supermarket proximity and income levels.
