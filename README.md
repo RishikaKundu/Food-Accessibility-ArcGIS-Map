@@ -1,4 +1,4 @@
 # Food-Accessibility-ArcGIS-Map
 Assessing Supermarket Accessibility and Income Disparities in Ramsey County
 
-![Supermarket Accessibility Map](./Food-Accessibility-ArcGIS-Map/Supermarket_Acess_Map.jpg)
+![Supermarket Accessibility Map](.Supermarket_Access_Map.jpg)
